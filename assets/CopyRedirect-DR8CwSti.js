@@ -1,0 +1,1 @@
+import{d as t,o,c as r,a3 as a,a4 as c}from"./index-n48qtSh-.js";const s={class:"copy-redirect","aria-hidden":"true"},i=t({__name:"CopyRedirect",setup(n){const e=a();return c().replace(e.meta.copyTarget??"/"),(p,_)=>(o(),r("div",s))}});export{i as default};
