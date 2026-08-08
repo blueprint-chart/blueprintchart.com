@@ -1,0 +1,1 @@
+import{At as e,G as t,I as n,h as r,m as i}from"./useApi-CROJJdhE-Bu4bYjuO.js";var a={class:`copy-redirect`,"aria-hidden":`true`},o=t({__name:`CopyRedirect`,setup(t){let o=i();return r().replace(o.meta.copyTarget??`/`),(t,r)=>(e(),n(`div`,a))}});export{o as default};
